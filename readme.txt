@@ -7,4 +7,4 @@ Creating a new branch is quick & simple.
 =======
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
-Have a new try!
+Have a new and funny try!
